@@ -1,2 +1,2 @@
 # Javascript
- Learning path of Javascript
+Some Javascript code
